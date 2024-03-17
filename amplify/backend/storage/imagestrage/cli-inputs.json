@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagestrage",
+  "policyUUID": "f797d5eb",
+  "bucketName": "imagestrage-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
